@@ -1,0 +1,67 @@
+{
+  "header": {
+    "properties": "物件一覧",
+    "features": "特徴",
+    "about": "会社概要",
+    "getStarted": "はじめる"
+  },
+  "chat": {
+    "title": "エージェントとチャット",
+    "placeholder": "メッセージを入力...",
+    "translation": "メッセージは自動的に翻訳されます",
+    "send": "送信"
+  },
+  "property": {
+    "beds": "寝室",
+    "baths": "バス",
+    "sqm": "㎡",
+    "features": "特徴",
+    "contactAgent": "エージェントに連絡",
+    "notFound": "物件が見つかりません",
+    "price": "価格帯",
+    "location": "所在地",
+    "type": "物件タイプ",
+    "types": {
+      "apartment": "マンション",
+      "house": "一戸建て",
+      "mansion": "高級マンション",
+      "all": "すべてのタイプ"
+    },
+    "priceRanges": {
+      "any": "指定なし",
+      "range1": "0円 - 5,000万円",
+      "range2": "5,000万円 - 1億円",
+      "range3": "1億円以上"
+    },
+    "bedrooms": {
+      "label": "寝室数",
+      "any": "指定なし",
+      "onePlus": "1部屋以上",
+      "twoPlus": "2部屋以上",
+      "threePlus": "3部屋以上",
+      "fourPlus": "4部屋以上"
+    }
+  },
+  "search": {
+    "location": "所在地",
+    "locationPlaceholder": "場所を入力",
+    "searchButton": "物件を検索"
+  },
+  "sampleProperties": {
+    "shibuya": {
+      "title": "渋谷の現代的なマンション",
+      "location": "東京都渋谷区",
+      "features": ["バルコニー", "セキュリティ", "エレベーター"]
+    },
+    "kyoto": {
+      "title": "京都の伝統的な町家",
+      "location": "京都市祇園",
+      "features": ["庭園", "駐車場", "伝統的な特徴"]
+    },
+    "roppongi": {
+      "title": "六本木の高級マンション",
+      "location": "東京都港区六本木",
+      "features": ["コンシェルジュ", "ジム", "プール"]
+    }
+  }
+}

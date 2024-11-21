@@ -1,0 +1,67 @@
+{
+  "header": {
+    "properties": "房产列表",
+    "features": "特色",
+    "about": "关于我们",
+    "getStarted": "开始使用"
+  },
+  "chat": {
+    "title": "与经纪人聊天",
+    "placeholder": "输入消息...",
+    "translation": "消息会自动翻译",
+    "send": "发送"
+  },
+  "property": {
+    "beds": "卧室",
+    "baths": "浴室",
+    "sqm": "平米",
+    "features": "特色",
+    "contactAgent": "联系经纪人",
+    "notFound": "未找到房产",
+    "price": "价格范围",
+    "location": "位置",
+    "type": "房产类型",
+    "types": {
+      "apartment": "公寓",
+      "house": "独栋住宅",
+      "mansion": "豪宅",
+      "all": "所有类型"
+    },
+    "priceRanges": {
+      "any": "不限",
+      "range1": "0日元 - 5000万日元",
+      "range2": "5000万日元 - 1亿日元",
+      "range3": "1亿日元以上"
+    },
+    "bedrooms": {
+      "label": "卧室数量",
+      "any": "不限",
+      "onePlus": "1间以上",
+      "twoPlus": "2间以上",
+      "threePlus": "3间以上",
+      "fourPlus": "4间以上"
+    }
+  },
+  "search": {
+    "location": "位置",
+    "locationPlaceholder": "输入位置",
+    "searchButton": "搜索房产"
+  },
+  "sampleProperties": {
+    "shibuya": {
+      "title": "涩谷现代公寓",
+      "location": "东京涩谷区",
+      "features": ["阳台", "安保系统", "电梯"]
+    },
+    "kyoto": {
+      "title": "京都传统住宅",
+      "location": "京都祇园",
+      "features": ["花园", "停车位", "传统特色"]
+    },
+    "roppongi": {
+      "title": "六本木豪华公寓",
+      "location": "东京港区六本木",
+      "features": ["礼宾服务", "健身房", "游泳池"]
+    }
+  }
+}

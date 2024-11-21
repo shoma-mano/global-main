@@ -1,0 +1,67 @@
+{
+  "header": {
+    "properties": "Properties",
+    "features": "Features",
+    "about": "About",
+    "getStarted": "Get Started"
+  },
+  "chat": {
+    "title": "Chat with Agent",
+    "placeholder": "Type your message...",
+    "translation": "Messages are automatically translated",
+    "send": "Send"
+  },
+  "property": {
+    "beds": "Beds",
+    "baths": "Baths",
+    "sqm": "m²",
+    "features": "Features",
+    "contactAgent": "Contact Agent",
+    "notFound": "Property not found",
+    "price": "Price Range",
+    "location": "Location",
+    "type": "Property Type",
+    "types": {
+      "apartment": "Apartment",
+      "house": "House",
+      "mansion": "Mansion",
+      "all": "All Types"
+    },
+    "priceRanges": {
+      "any": "Any",
+      "range1": "¥0 - ¥50,000,000",
+      "range2": "¥50,000,000 - ¥100,000,000",
+      "range3": "¥100,000,000+"
+    },
+    "bedrooms": {
+      "label": "Bedrooms",
+      "any": "Any",
+      "onePlus": "1+",
+      "twoPlus": "2+",
+      "threePlus": "3+",
+      "fourPlus": "4+"
+    }
+  },
+  "search": {
+    "location": "Location",
+    "locationPlaceholder": "Enter location",
+    "searchButton": "Search Properties"
+  },
+  "sampleProperties": {
+    "shibuya": {
+      "title": "Modern Apartment in Shibuya",
+      "location": "Shibuya, Tokyo",
+      "features": ["Balcony", "Security", "Elevator"]
+    },
+    "kyoto": {
+      "title": "Traditional House in Kyoto",
+      "location": "Gion, Kyoto",
+      "features": ["Garden", "Parking", "Traditional Features"]
+    },
+    "roppongi": {
+      "title": "Luxury Mansion in Roppongi",
+      "location": "Roppongi, Tokyo",
+      "features": ["Concierge", "Gym", "Pool"]
+    }
+  }
+}
